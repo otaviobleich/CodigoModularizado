@@ -1,6 +1,6 @@
 class Saudacao {
     public static void main(String[] args) {
-        int hora = 23; // Pode mudar o valor para testar diferentes horários
+        int hora = 23; 
         String mensagem = obterSaudacao(hora);
 
         System.out.println(mensagem);
